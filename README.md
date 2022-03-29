@@ -15,7 +15,7 @@ During our meeting, we've come up with [some keywords](keywords.yaml) to underst
 
 - Add more keywords. Feel free to append what's necessary to the yaml file.
 - Manually add relations (i.e., edges) between the entities (i.e., keywords)
-  - I was gonna use the MIRO board but the low participation rate shows that this is not the most effective way.
+  - I was gonna use [the MIRO board](https://miro.com/welcomeonboard/TzhzVmNsem1SVG56c2d2d0J4Yk9UbENuYUJWcExEcUVTRmRMdXRSczZldmMyZVZkdVF4alFiZjVlZ2hWZUZnUnwzNDU4NzY0NTIxMTEzMTM1NDY1?invite_link_id=38942586988) but the low participation rate shows that this is not the most effective way.
   - Can someone come up with something else?
 - Automatically add relations. Since we are HI, we can also ask machines to do this!
   - [Try TransE](https://proceedings.neurips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf)
